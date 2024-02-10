@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #9ACD32;
+}
+h1{
+    color: #9ACD32;
+    text-align: center;
+}
+footer{
+    color: #00008B;
+    background-color: lime;
+}
+
+.class{
+    border: 5px solid darkslateblue;
+    background-color: darkviolet;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.lev{
+    border:5px solid darkgreen;
+    background-color: greenyellow;
+}
